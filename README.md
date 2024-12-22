@@ -16,15 +16,17 @@ Recommended to keep the SpotifyTool after installing because to update [Spicetif
 Go to the [relases](https://github.com/Balint2201/SpotifyTool/releases/) page and download the newest file.
 
 ### Important notice!
-If you have [Spicetify](https://spicetify.app/) already installed the tool's install feature won't work!
-Here's why: [SpotX FAQ](https://telegra.ph/SpotX-FAQ-09-19)
+> [!IMPORTANT]
+> If you have [Spicetify](https://spicetify.app/) already installed the tool's install feature won't work!
+> 
+> Here's why: [SpotX FAQ](https://telegra.ph/SpotX-FAQ-09-19)
 
 ## SpotifyTool for Android
 Remove all ads from the app + listen to full songs for 100% free!
 
 ### Install
-Navigate to the app's [Relase](https://github.com/Balint2201/SpotifyTool/releases/tag/Android-v.1.0.0) page and download the apk!
-Open the apk and install the app!
+Navigate to the app's [Relase](https://github.com/Balint2201/SpotifyTool/releases/tag/Android-v.1.0.0) page and download the APK!
+Open the APK and install the app!
 
 > [!WARNING]  
 > You will not be able to install the app if a program on your device is blocking APKs from installing. This software can be for examle Google Family Link.
