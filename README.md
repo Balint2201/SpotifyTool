@@ -31,7 +31,7 @@ Open the APK and install the app!
 > [!WARNING]  
 > You will not be able to install the app if a program on your device is blocking APKs from installing. This software can be for examle Google Family Link.
 
-### Requrements
+### Requirements
 **Android 11 or higher\***
 > [!TIP]
 > *You can use the app on older versions of Android but Spotify will not work perfectly.
