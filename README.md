@@ -46,6 +46,8 @@ Open the APK and install the app!
 > ~~If this doesn't help this will be the same case as if you were on Android 10 or lower.~~
 > 
 > ~~On Android 10 or lower the issue of the app not being able to open authors' profile can't be fixed. The app most likely will crash if you try.~~
+>
+> On Android 10 or lower the Lyrics function will not work. Partly or entirely.
 
 > [!IMPORTANT]
 > Downsides of this modification:
