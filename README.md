@@ -23,9 +23,11 @@ Go to the [relases](https://github.com/Balint2201/SpotifyTool/releases/) page an
 
 ## SpotifyTool for Android
 Remove all ads from the app + listen to full songs for 100% free!
+> [!TIP]
+> All versions are tested and proven by [VirusTotlal](https://virustotal.com/) to be 100% virus free!
 
 ### Install
-Navigate to the app's [Relase](https://github.com/Balint2201/SpotifyTool/releases/tag/Android-v.1.0.0) page and download the APK!
+Navigate to the app's [Relase](https://github.com/Balint2201/SpotifyTool/releases/tag/Android-v.2.0.0) page and download the APK!
 Open the APK and install the app!
 
 > [!WARNING]  
@@ -37,13 +39,15 @@ Open the APK and install the app!
 > *You can use the app on older versions of Android but Spotify will not work perfectly.
 
 ### Important notice!
-> [!IMPORTANT]  
-> On Android 11 or higher you will not be able to visit authors' profiles. To fix the issue you can try visiting an author's profile via link and opening it in the app.
-> If this doesn't help this will be the same case as if you were on Android 10 or lower.
+> [!IMPORTANT]
+> **!ISSUE FIXED IN V2.0!**
 > 
-> On Android 10 or lower the issue of the app not being able to open authors' profile can't be fixed. The app most likely will crash if you try.
+> ~~On Android 11 or higher you will not be able to visit authors' profiles. To fix the issue you can try visiting an author's profile via link and opening it in the app.~~
+> ~~If this doesn't help this will be the same case as if you were on Android 10 or lower.~~
+> 
+> ~~On Android 10 or lower the issue of the app not being able to open authors' profile can't be fixed. The app most likely will crash if you try.~~
 
 > [!IMPORTANT]
 > Downsides of this modification:
-> - you will not be able to see your yearly Spotify Wrapped
-> - your device inside of Spotify will be visible as a Samsung Tab S9
+> - you will not be able to see your yearly Spotify Wrapped (probably fixed in v2.0)
+> - ~~your device inside of Spotify will be visible as a Samsung Tab S9~~ **(FIXED IN V2.0)**
