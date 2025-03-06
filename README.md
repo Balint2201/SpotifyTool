@@ -40,12 +40,14 @@ Open the APK and install the app!
 
 ### Important notice!
 > [!IMPORTANT]
-> ~~On Android 11 or higher you will not be able to visit authors' profiles. To fix the issue you can try visiting an author's profile via link and opening it in the app.~~ **(FIXED IN V2.0)**
-> ~~If this doesn't help this will be the same case as if you were on Android 10 or lower.~~
+> ~~On Android 11 or higher you will not be able to visit authors' profiles. To fix the issue you can try visiting an author's profile via link and opening it in the app.~~
+> ~~If this doesn't help this will be the same case as if you were on Android 10 or lower.~~ **(FIXED IN V2.0)**
 > 
 > ~~On Android 10 or lower the issue of the app not being able to open authors' profile can't be fixed. The app most likely will crash if you try.~~ **(FIXED IN V2.0)**
 >
 > On Android 10 or below the Lyrics function will not work. Partly or entirely. (In V2.0, V1.0 doesn't have a lyrics feature)
+>
+> In V2.0 login feature (only via Google) doesn't work.
 
 > [!IMPORTANT]
 > Downsides of this modification:
