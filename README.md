@@ -1,3 +1,25 @@
+>## THIS PROJECT IS ARCHIVED! THE CODE IS BROKEN AND THE INSTALLATION AND IN-APP SYNCS WON'T WORK ANYMORE! USE [SPICETIFY](https://spicetify.app) INSTEAD!
+>### Feel free to fork this app or do anything else with it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SpotifyTool
 
 ## SpotifyTool for Windows
